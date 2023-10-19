@@ -3,6 +3,7 @@
 The aim of Labwork 4 was to make:
 - **Copy of the site in two variants - mobile and desktop;**
 
+
 This project involved creating a mock-up website from prepared graphic design layouts. By closely following specific instructions, I achieved the desired appearance and style. Additionally, I ensured that the website displays correctly on various browser window sizes.
 
 
