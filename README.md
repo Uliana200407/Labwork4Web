@@ -1,5 +1,5 @@
-# Labwork3Web👩🏽‍💻
+# Labwork4Web👩🏽‍💻
 ## Mini-description of Labwork4
 The aim of Labwork 4 was to make:
-- **Mobile adaptation**
-- **Ability of mailing list ;**
+- **Copy of the site it two variants - mobile and desktop;**
+
